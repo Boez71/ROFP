@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyApplication">
+</Property><Property Name="Файл решения" Value="D:\Учеба\ООП\Лабораторная работа №1\MyApplication\MyApplication.sln">
+</Property><Property Name="Date" Value="1 июля 2013 г.">
+</Property><Property Name="Time" Value="2:46">
+</Property></Properties><Event ErrorLevel="0" Project="MyApplication" Source="MyApplication\MyApplication.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="MyApplication" Source="MyApplication\MyApplication.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WPFHelper" Source="WPFHelper\WPFHelper.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="WPFHelper" Source="WPFHelper\WPFHelper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyApplication.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="MyApplication.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyApplication" Source="MyApplication\MyApplication.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event><Event ErrorLevel="0" Project="WPFHelper" Source="WPFHelper\WPFHelper.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
